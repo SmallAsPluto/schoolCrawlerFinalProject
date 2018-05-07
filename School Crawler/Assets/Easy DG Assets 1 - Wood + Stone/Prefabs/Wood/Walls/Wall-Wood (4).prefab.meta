@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7b9c6a300ca94e84aa580ff42a8b8292
+guid: 8698ce17168df2345a6b246bc8e45a36
 labels:
 - Dungeon
 - EasyDG
@@ -8,6 +8,8 @@ labels:
 timeCreated: 1498272754
 licenseType: Store
 NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
