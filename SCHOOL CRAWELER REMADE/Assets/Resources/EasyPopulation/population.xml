@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<populationDB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Population>
+    <ActorData Quantos_x003A_="100" AnchorRadius_x003A_="12" AnchorHeight_x003A_="0">
+      <Citizens>
+        <Adultos_x003A_>Dude</Adultos_x003A_>
+        <Adultos_x003A_>Ethan1</Adultos_x003A_>
+      </Citizens>
+      <Children />
+      <Position_x003A_>
+        <Anchors_x003A_>
+          <x>9</x>
+          <y>0</y>
+          <z>9.7</z>
+        </Anchors_x003A_>
+        <Anchors_x003A_>
+          <x>28.8</x>
+          <y>0</y>
+          <z>8.9</z>
+        </Anchors_x003A_>
+        <Anchors_x003A_>
+          <x>6.5</x>
+          <y>0</y>
+          <z>29.2</z>
+        </Anchors_x003A_>
+        <Anchors_x003A_>
+          <x>26</x>
+          <y>0</y>
+          <z>34.4</z>
+        </Anchors_x003A_>
+      </Position_x003A_>
+      <Trabalhador_x003A_ />
+    </ActorData>
+  </Population>
+</populationDB>
